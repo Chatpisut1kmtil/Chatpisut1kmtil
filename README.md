@@ -26,22 +26,6 @@
 
 ---
 
-<div align="center">
-
-  <!-- GitHub Telemetry & Stats (Transparent Theme) -->
-  <a href="https://github.com/Chatpisut1kmtil">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chatpisut1kmtil&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatpisut1kmtil&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="150" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/Chatpisut1kmtil">
-    <img src="https://streak-stats.demolab.com/?user=Chatpisut1kmtil&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="150" />
-  </a>
-
-  <br /><br />
-
   <!-- Social & Contact -->
   <p>
     <a href="https://discord.gg/u18xmapkradot" target="_blank">
