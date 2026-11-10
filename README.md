@@ -24,28 +24,6 @@
 
 ---
 
-### ⚡ ขอบเขตความเชี่ยวชาญ (Core Competencies)
-
-- 🔍 **Systems & Reverse Engineering (วิศวกรรมย้อนกลับและสถาปัตยกรรมระบบ)**
-  - วิเคราะห์โครงสร้างไบนารีระดับลึกทั้งแบบ Static และ Dynamic (โครงสร้างไฟล์ PE/ELF และการถอดรหัส Assembly)
-  - เข้าใจตรรกะระดับ Assembly ภาษาเครื่อง, การควบคุมทิศทางการทำงานของโปรแกรม (Execution Flow) และเทคนิคการ Debugging เชิงลึก
-
-- 🛡️ **Binary Security & Protection Analysis (การวิเคราะห์ระบบความปลอดภัยและการป้องกัน)**
-  - ศึกษากลไก Anti-Tamper, ตัวบีบอัดโค้ด (Packers) และสถาปัตยกรรมระบบตรวจสอบสิทธิ์ของซอฟต์แวร์
-  - ตรวจสอบโครงสร้างหน่วยความจำ (Memory Inspection), กลไกการทำ API Hooking และการตรวจสอบความถูกต้องของข้อมูล (Integrity Verification)
-
-- 🎮 **Game Security & Runtime Internals (ความปลอดภัยของเกมและการทำงานระดับ Runtime)**
-  - ศึกษาสถาปัตยกรรม Game Engine, โครงสร้างข้อมูลของ Entity และการจัดสรรหน่วยความจำขณะรันไทม์
-  - วิเคราะห์การซิงโครไนซ์ระหว่าง Client-Server, รูปแบบการตรวจจับของระบบ Anti-Cheat และการทำ Usermode Hooking
-
-- 🤖 **AI Engineering & Automation (วิศวกรรมปัญญาประดิษฐ์และระบบอัตโนมัติ)**
-  - ออกแบบไปป์ไลน์ระบบอัตโนมัติอัจฉริยะ และเชื่อมต่อระบบ AI Agents ด้วย Python
-  - ประยุกต์ใช้เครื่องมือขั้นสูงอย่าง Google Antigravity เพื่อเพิ่มประสิทธิภาพงานวิจัยและพัฒนาระบบระดับ Low-level
-
-- ⚙️ **High-Performance Architecture (สถาปัตยกรรมซอฟต์แวร์ประสิทธิภาพสูง)**
-  - พัฒนาโมดูลที่ปลอดภัยต่อหน่วยความจำและทำงานได้รวดเร็วด้วย **Rust**, **C++** และ **C#**
-  - สร้างสคริปต์เครื่องมือความเร็วสูง, สภาพแวดล้อม Runtime และ Embedded Logic ด้วย **Lua** และ **Python**
-
 ---
 
 <div align="center">
@@ -66,11 +44,11 @@
 
   <!-- Social & Contact -->
   <p>
-    <a href="https://discord.com" target="_blank">
+    <a href="https://discord.gg/u18xmapkradot" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" width="28" height="28" alt="Discord" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:projectlnwza007@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" width="28" height="28" alt="Email" />
     </a>
   </p>
