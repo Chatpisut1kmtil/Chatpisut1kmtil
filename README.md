@@ -21,20 +21,3 @@
   </p>
 
 </div>
-
----
-
----
-
-  <!-- Social & Contact -->
-  <p>
-    <a href="https://discord.gg/u18xmapkradot" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord" width="28" height="28" alt="Discord" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:projectlnwza007@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" width="28" height="28" alt="Email" />
-    </a>
-  </p>
-
-</div>
