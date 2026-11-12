@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Chatpisut;Systems+%26+Reverse+Engineering;Binary+Protection+%26+Game+Security;AI+Workflows+%26+Automation" alt="Typing SVG" />
   </a>
 
-  <p>Software Systems • Reverse Engineering • Binary Protection • AI Workflows</p>
+  <p>Software Systems • Reverse Engineering • Binary Protection • AI Workflows • Robloxmapkradot</p>
 
   <br />
 
